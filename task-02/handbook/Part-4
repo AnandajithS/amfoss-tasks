@@ -1,10 +1,10 @@
 #Encoded string
-Part-1(Parchment.txt)-> aHR0cHM6Ly9naXRo
+Parchment.txt-> aHR0cHM6Ly9naXRo
 
-Part-2(Celestial Amulet)-> CSigVmaroAn
+Light Book-> dWIuY29tL2FtYW5ze
 
-Part-2(Light Book)-> dWIuY29tL2FtYW5ze
+DarkBookI-> GNhbGlidXIvVGVyb
 
-Part-3(DarkBookII)-> WluYWwtQ2hhb3MtR29kU3VpdGU=
+DarkBookII-> WluYWwtQ2hhb3MtR29kU3VpdGU=
 
-Encoded text: aHR0cHM6Ly9naXRodWIuY29tL2FtYW5zeWluYWwtQ2hhb3MtR29kU3VpdGU=CSigVmaroAn 
+Encoded text: aHR0cHM6Ly9naXRodWIuY29tL2FtYW5zeGNhbGlidXIvVGVybWluYWwtQ2hhb3MtR29kU3VpdGU=
