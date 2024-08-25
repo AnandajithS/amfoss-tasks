@@ -1,1 +1,19 @@
+f1=open("input.txt","w")
+n=input("Enter n: ")
+f1.write(n)
+f1.close()
+f1=open("input.txt","r")
+f2=open("output.txt","w")
+data=int(f1.read())
+for i in range(1,data+1,2):
+    s=(data-i)//2
+    row1=" "*(s+1)+"*"*i
+    f2.write(row1+'\n')
 
+for j in range(data-2,0,-2):
+    t=(data-j)//2
+    row2=" "*(t+1)+"*"*j
+    f2.write(row2+'\n')
+f1.close()
+f2.close()
+    
