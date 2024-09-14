@@ -1,0 +1,2 @@
+# My thoughts
+When I first attempted this task, I thought it would be very difficult since I haven't used Pillow or OpenCV or before. But after I learnt about it, I became a little easier. Then, I had to find the logic through trial and error. When I initially did it, there was a mistake in the code due to which the lines were drawn over the blank images. It was frustrating, but after  working on it for sometime, I was able to solve it. Overall, I think it was bit difficult, but quite fun in it's own way.
