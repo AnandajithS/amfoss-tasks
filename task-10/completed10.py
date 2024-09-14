@@ -27,7 +27,7 @@ for pic in img_paths:
     for i in range(height):
         for j in range(width):
             (B, G, R) = picture[i, j]
-            if R != 255 or G !=255 or B != 255: # Checks whether the the image is completely white or not
+            if R != 255 or G !=255 or B != 255: # Checks if the pixel is white or not
                 if previous_coords==None:
                     previous_coords=(j,i) #j correspondes to x-coordinate and i correspondes to y-coordinate
                     found_dot=True
