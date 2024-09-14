@@ -1,2 +1,2 @@
 # Touch typing
-Still in the process of achieveing 60 WPM
+I'm now able to touch type but cannot achieve 60 WPM.
